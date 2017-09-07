@@ -15,9 +15,9 @@ This software is free and open source software licensed under the terms of GPLv3
 
 * Python 2.7 or 2.6 (or 3.x)
 
-* Development tools for PyQt4
+* Development tools for PyQt5
 
-    - `pyqt4-dev-tools` (Ubuntu/Mint/Debian), `pyqt4-dev-tools` (Arch Linux)
+    - `pyqt5-dev-tools` (Ubuntu/Mint/Debian), `pyqt5-dev-tools` (Arch Linux)
 
 * lxml
 
@@ -85,7 +85,7 @@ Or if you are using *MacPorts*:
   <li><p>Install the following ports:</p>
     <ul>
       <li>python27 (or python3x)</li>
-      <li>py27-pyqt4</li>
+      <li>py27-pyqt5</li>
       <li>py27-lxml</li>
       <li>py27-whoosh</li>
       <li>py27-pyobjc-cocoa</li>
